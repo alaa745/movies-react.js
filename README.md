@@ -4,11 +4,6 @@
 
 <p id="description">A simple movie app built with react.js</p>
 
-<h2>🚀 Demo</h2>
-
-<img src="https://res.cloudinary.com/dnjyjohze/video/upload/v1737416516/Screen_Recording_2025-01-21_at_1.25.26_AM_idh1o9.mov" alt="project-screenshot" width="100%" height="400/">
-
-
 <h2>Project Screenshots:</h2>
 
 <img src="https://res.cloudinary.com/dnjyjohze/image/upload/v1737416307/Screenshot_2025-01-21_at_1.25.03_AM_sgjfo8.png" alt="project-screenshot" width="100%" height="400/">
