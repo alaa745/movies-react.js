@@ -6,7 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://res.cloudinary.com/dnjyjohze/image/upload/v1737416307/Screenshot_2025-01-21_at_1.25.03_AM_sgjfo8.png" alt="project-screenshot" width="100%" height="400/">
+<img src="https://res.cloudinary.com/dnjyjohze/image/upload/v1737416307/Screenshot_2025-01-21_at_1.25.03_AM_sgjfo8.png" alt="project-screenshot" width="400" height="400/">
 
 
   
